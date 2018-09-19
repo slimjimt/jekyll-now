@@ -4,4 +4,4 @@ title: You're up and running!
 ---
 
 Well, it may be more of a walk than a run!
-![_config.yml]({{ site.baseurl }}/images/config.png)
+https://static.makeuseof.com/wp-content/uploads/2018/02/control-arduino-python-670x335.jpg)
